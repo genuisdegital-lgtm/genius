@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aymenbech.github.io/sitemap.xml
